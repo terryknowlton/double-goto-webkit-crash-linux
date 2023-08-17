@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/terryknowlton/double-goto-webkit-crash-linux#readme",
   "devDependencies": {
-    "@playwright/test": "1.31.2"
+    "@playwright/test": "1.36.2"
   }
 }
